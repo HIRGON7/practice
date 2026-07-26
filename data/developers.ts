@@ -1,0 +1,88 @@
+const developers = [
+  {
+    username: "hadi-jawhari",
+    name: "Hadi Jawhari",
+    role: "Full-Stack Developer",
+    bio: "Builds modern web applications and AI-powered projects.",
+    skills: ["React", "Next.js", "Python", "Java", "C#"],
+  },
+  {
+    username: "sarah-khoury",
+    name: "Sarah Khoury",
+    role: "UI/UX Designer",
+    bio: "Creates simple, attractive, and user-friendly digital experiences.",
+    skills: ["Figma", "Prototyping", "User Research"],
+  },
+  {
+    username: "jad-haddad",
+    name: "Jad Haddad",
+    role: "Frontend Developer",
+    bio: "Develops responsive websites with clean and interactive interfaces.",
+    skills: ["HTML", "CSS", "JavaScript"],
+  },
+  {
+    username: "maya-nassar",
+    name: "Maya Nassar",
+    role: "Mobile Developer",
+    bio: "Builds mobile applications for Android and iOS devices.",
+    skills: ["React Native", "Flutter", "Firebase"],
+  },
+  {
+    username: "karim-mansour",
+    name: "Karim Mansour",
+    role: "Backend Developer",
+    bio: "Creates secure APIs and reliable server-side applications.",
+    skills: ["Node.js", "Express", "MongoDB"],
+  },
+  {
+    username: "leah-chami",
+    name: "Leah Chami",
+    role: "Software Developer",
+    bio: "Enjoys building useful software and solving technical problems.",
+    skills: ["Java", "C#", "SQL"],
+  },
+  {
+    username: "rami-saab",
+    name: "Rami Saab",
+    role: "AI Engineer",
+    bio: "Develops machine-learning models and intelligent applications.",
+    skills: ["Python", "TensorFlow", "NLP"],
+  },
+  {
+    username: "nour-chamoun",
+    name: "Nour Chamoun",
+    role: "Web Developer",
+    bio: "Builds fast and responsive websites for different screen sizes.",
+    skills: ["React", "Tailwind CSS", "Next.js"],
+  },
+  {
+    username: "elias-boulos",
+    name: "Elias Boulos",
+    role: "DevOps Engineer",
+    bio: "Manages deployments, servers, and automated development workflows.",
+    skills: ["Docker", "GitHub Actions", "Linux"],
+  },
+  {
+    username: "rana-salameh",
+    name: "Rana Salameh",
+    role: "Data Analyst",
+    bio: "Uses data to discover patterns and support better decisions.",
+    skills: ["Python", "SQL", "Power BI"],
+  }, 
+  {
+    username: "bchara-khoury",
+    name: "Bchara Khoury",
+    role: "boss",
+    bio: "was the first president .",
+    skills: ["horseback riding", "hunting", "signing independencies"],
+  }, 
+  {
+    username: "drake",
+    name: "drizzy drake",
+    role: "rapper",
+    bio: "following gods plan.",
+    skills: ["being corny", "drake curse", "ghostwriting"],
+  },
+];
+
+export default developers;
