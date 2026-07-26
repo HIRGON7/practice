@@ -6,19 +6,19 @@ const Navbar = () => {
         <h1 className='text-xl font-bold'> My App</h1>
         <ul className='flex space-x-5'>
         <li> 
-            <a href="/"> Home</a>
+            <a href="/" className=' hover:text-emerald-800'> Home</a>
         </li>
         <li> 
-            <a href="/about"> About</a>
+            <a href="/about" className='hover:text-fuchsia-800'> About</a>
         </li>
          <li> 
-            <a href="/communities"> Communities</a>
+            <a href="/communities" className='hover:text-orange-600'> Communities</a>
         </li>
          <li> 
-            <a href="/topics"> Topics</a>
+            <a href="/topics" className='hover:text-shadow-teal-500'> Topics</a>
         </li>
          <li> 
-            <a href="/developers"> Developers</a>
+            <a href="/developers" className='hover:text-amber-300'> Developers</a>
         </li>
 
         </ul>
