@@ -83,6 +83,13 @@ const developers = [
     bio: "following gods plan.",
     skills: ["being corny", "drake curse", "ghostwriting"],
   },
+    {
+    username: "George-rassi",
+    name: "George Rassi",
+    role: "AWS Expert",
+    bio: "Manages deployments, servers, and automated development workflows.",
+    skills: ["Python", "Docker", "AWS"],
+  },
 ];
 
 export default developers;
