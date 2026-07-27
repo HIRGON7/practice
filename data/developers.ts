@@ -4,7 +4,7 @@ const developers = [
     name: "Hadi Jawhari",
     role: "Full-Stack Developer",
     bio: "Builds modern web applications and AI-powered projects.",
-    skills: ["React", "Next.js", "Python", "Java", "C#"],
+    skills: ["React", "Next.js", "Python", "Java", "C#", "C++"],
   },
   {
     username: "sarah-khoury",
